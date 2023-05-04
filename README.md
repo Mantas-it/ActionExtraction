@@ -8,7 +8,7 @@ Required: python 3.8; tensorflow 2.4.1; RDkit 2021.03; The code is in Jupyter No
 
 The prepared EPO/USPTO dataset of chemical procedures can be downloaded [here](https://vduedu-my.sharepoint.com/:u:/g/personal/mantas_vaskevicius_vdu_lt/EawEVnHXkg9FnxEB2LE1ujsBCsSe2NF2viC454L1Jaihmg?e=VGOOgz). (880 MB zipped, .csv file with tab as a separator)
 
-The Translation (text generation) model can be downloaded [here](https://vduedu-my.sharepoint.com/:u:/g/personal/mantas_vaskevicius_vdu_lt/EcZb9F_L75hBkZF8DVuQhkoBxEbdkuFI81jSWRWYD_6PtA?e=SGJvgg). (>500 MB zipped, .csv file with tab as a separator)
+The Translation (text generation) model can be downloaded [here](https://vduedu-my.sharepoint.com/:u:/g/personal/mantas_vaskevicius_vdu_lt/EcZb9F_L75hBkZF8DVuQhkoBxEbdkuFI81jSWRWYD_6PtA?e=SGJvgg). (>500 MB zipped, openNMT model)
 
 Convert raw paragraphs to structured format via cmd:
 
