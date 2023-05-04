@@ -16,4 +16,4 @@ Convert raw paragraphs to structured format via cmd:
 onmt-main --checkpoint_path model_folder\ckpt-2600 --config run_file.yml --auto_config --mixed_precision infer --features_file input.txt --predictions_file output.txt
 ```
 
-All text of organic chemistry patents will be available after the associated article has been published. The raw text is substancial in size (about 200GB). A more detailed guide for exploration of the datasets and a tutorial will be made public.  
+All text of organic chemistry patents will be available after the associated article has been published. The raw text is substantial in size (about 200GB). A more detailed guide for exploration of the datasets and a tutorial will be made public.  
