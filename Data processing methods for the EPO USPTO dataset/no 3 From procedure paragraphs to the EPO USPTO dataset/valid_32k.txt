@@ -1,0 +1,300 @@
+ADD N,N-dimethylformamide (1.5 ml); ADD ethyl 2-[6-chloro-2-(2,4-difluorophenylamino)-5-fluoronicotinoyl]acetate (150 mg); ADD thiophenol (70 mg); ADD triethylamine (60 mg); STIR for 1 hour at room temperature.
+ADD ethyl acetate (20 ml); ADD water (10 ml); PH with 2N hydrochloric acid to pH 2.0.
+PHASESEPARATION; COLLECTLAYER organic; WASH with water (10 ml); WASH with saturated aqueous sodium chloride solution (10 ml); DRYSOLUTION over anhydrous magnesium sulfate.
+CONCENTRATE; ADD n-hexane (5 ml); FILTER keep precipitate; YIELD ethyl 2-[2-(2,4-difluorophenylamino)-5-fluoro-6-phenylthionicotinoyl]acetate (170 mg, 94.6%).
+NOACTION.
+FOLLOWOTHERPROCEDURE.
+INVALIDACTION.
+FILTER keep filtrate; WASH with methanol.
+CONCENTRATE; YIELD N-[2-hydroxy-5-[(1R)-1-hydroxy-2-[(1S)-2 -hydroxy-1-[4-(imidazo[1,2-a]pyridin-5-yloxy) benzyl]-ethylamino]ethyl]phenyl]methanesulfonamide (50.8 mg, 81%).
+MAKESOLUTION with 6-Amino-2-anilino-9-benzyl-8-bromopurine (80 mg, 0.20 mmol) and concentrated hydrochloric acid (200 ml); ADD SLN; ADD methanol (50 ml); REFLUX for 5 hours.
+INVALIDACTION.
+FILTER keep precipitate; WASH with water; DRYSOLID; YIELD subject compound (67 mg).
+MAKESOLUTION with 3-(2-ethoxyethyl)-2-[4-(1-piperazinyl)butyl]-3H-imidazo[4,5-b]pyridine and 2-(chloromethyl)-3-(2-ethoxyethyl)-3H-imidazo[4,5-b]pyridine and sodium carbonate and N,N-dimethylacetamide (22.5 g); ADD SLN; STIR for 6 hours at 70° C.
+CONCENTRATE; EXTRACT with dichloromethane.
+DRYSOLUTION over unknown; FILTER keep filtrate; CONCENTRATE.
+FOLLOWOTHERPROCEDURE.
+FILTER keep precipitate; RECRYSTALLIZE from 2-propanol.
+FILTER keep filtrate; DRYSOLUTION over unknown; YIELD 3-(2-ethoxyethyl)-2-[[4-[4-[3-(2-ethoxyethyl)-3H-imidazo-4,5-b]pyridin-2-yl]butyl]-1-piperazinyl]methyl]-3H-imidazo[4,5-b]pyridine ethanedioate (6.8%).
+MAKESOLUTION with 3-{1-[4-(4-amino-3-chloro-5-trifluoromethyl-phenyl)-3-hydroxymethyl-butyryl]-piperidin-4-yl}-1,3,4,5-tetrahydro-1,3-benzodiazepin-2-one (0.539 g, 1.000 mmol) and dichloromethane (10 mL); ADD SLN; ADD Dess-Martin-Periodinane (0.933 g, 2.200 mmol); STIR for 3 hours at RT.
+WASH with sat. aqueous sodium thiosulphate solution; WASH with sat. aqueous NaCl solution; DRYSOLUTION over sodium sulphate; CONCENTRATE.
+PURIFY gradient 5:1-3:1 dichloromethane:MeOH.
+FOLLOWOTHERPROCEDURE.
+FILTER keep filtrate.
+MAKESOLUTION with 3-(3-benzyloxy-phenyl)-2-methoxy-acrylic acid methyl ester (3.96 g) and methanol (10 mL); ADD SLN; REFLUX.
+SETTEMPERATURE 0° C; ADD Mg (6.45 g).
+STIR for about an hour at room temperature.
+CONCENTRATE; ADD diethyl ether (100 mL).
+ADD HCl (3N) (100 mL); STIR for one minute.
+PHASESEPARATION; COLLECTLAYER organic; ADD diethyl ether (100 mL); ADD HCl (3N) (100 mL).
+COLLECTLAYER organic; WASH with brine; DRYSOLUTION over MgSO4.
+YIELD yellow oil.
+NOACTION.
+MAKESOLUTION with 3-cyano-4-[(1-methylethyl)oxy]benzoic acid (200 mg) and tetrahydrofuran (10 mL); ADD SLN; ADD EDC (374 mg); ADD HOBt (299 mg).
+STIR for half an hour.
+ADD Ethyl 3-{5-fluoro-6-[(Z)-(hydroxyamino)(imino)methyl]-1H-indol-3-yl}propanoate (286 mg); STIR for 1 hour.
+ADD TBAF (1019 mg); STIR for 2 hours at 120° C.
+SETTEMPERATURE room temperature; ADD ethyl acetate (80 mL); WASH with water (60 mL) 2 x.
+COLLECTLAYER organic; CONCENTRATE; PURIFY; YIELD ethyl 3-[6-(5-{3-cyano-4-[(1-methylethyl)oxy]phenyl}-1,2,4-oxadiazol-3-yl)-5-fluoro-1H-indol-3-yl]propanoate (250 mg).
+NOACTION.
+NOACTION.
+MAKESOLUTION with di-tert-butyl dicarbonate (2.0 g, 9.2 mmol) and 4,4′-methylenedianiline (1.8 g, 9.2 mmol) and DMF (100 mL); ADD SLN; REFLUX for 2 h; SETTEMPERATURE room temp.
+ADD EtOAc (200 mL); WASH with saturated NH4Cl (200 mL); WASH with saturated NaCl solution (100 mL); DRYSOLUTION over MgSO4.
+PURIFY 30%: EtOAc:hexane; YIELD carbamate (1.3 g, 48%).
+MAKESOLUTION with 4,5,6,7-tetrahydrobenzo[d]thiazol-2-amine (200 mg, 1.297 mmol) and tetrahydrofuran (4.3 mL); ADD SLN; ADD 3-(trifluoromethyl)benzoyl chloride (324 mg, 1.56 mmol); ADD potassium carbonate (359 mg, 2.59 mmol).
+STIR for 5 hours at 80° C; CONCENTRATE.
+ADD intermediate (0.43 mmol); ADD N,N-dimethylformamide (1.5 mL); ADD ethyl bromoacetate (93 mg, 0.559 mmol).
+STIR for 3 hours at 80° C; SETTEMPERATURE room temperature.
+QUENCH with water; EXTRACT with ethyl acetate.
+DRYSOLUTION over anhydrous magnesium sulfate; FILTER keep filtrate; CONCENTRATE.
+PURIFY 4:1 n-hexane:ethyl acetate; YIELD titled compound (103 mg, 58%).
+MAKESOLUTION with (1-benzylpyrrolidin-2-yl)methanol (250. g, 1.30 mol) and chloroform (2,500 ml); ADD SLN.
+MAKESOLUTION with thionyl chloride (232. g, 1.95 mol) and chloroform (500 ml); ADD SLN dropwise at room temperature over 60 minute.
+REFLUX for 2 hours.
+SETTEMPERATURE ambient temperature; CONCENTRATE; ADD ethyl acetate (3,000 ml).
+PH with triethylamine to pH 7.
+FILTER keep filtrate; CONCENTRATE; PURIFY : ethyl acetate:petroleum ether; YIELD 1-benzyl-2-(chloromethyl)pyrrolidine.
+FOLLOWOTHERPROCEDURE.
+NOACTION.
+STIR for 5 days; CONCENTRATE.
+PURIFY gradient 40%-100% acetonitrile:water; YIELD title compound (8 mg).
+NOACTION.
+FOLLOWOTHERPROCEDURE.
+SETTEMPERATURE rt; CONCENTRATE.
+TRITURATE with hexanes; DRYSOLID under vacuum; YIELD 4-chloro-3-methyl-2-(pyridin-2-yl)-1,8-naphthyridine.
+NOACTION.
+MAKESOLUTION with cis-3-(4-aminophenyl)-1-[4-(4-methylpiperazino)cyclohexyl]-1H-pyrazolo[3,4-d]pyrimidin-4-amine (0.150 g, 0.369 mmol) and pyridine (7 mL); ADD SLN; ADD 1,1′-Thiocarbonyldi-2(1H)-pyridone (0.086 g, 0.369 mmol) at 0° C; STIR for 1 h at 0° C.
+PARTITION with dichloromethane (10 mL) and water (10 mL).
+PHASESEPARATION; COLLECTLAYER organic; WASH with 0.5 N HCl (10 mL); DRYSOLUTION over anhydrous magnesium sulfate; FILTER keep filtrate; CONCENTRATE.
+ADD 2-Amino-m-cresol (0.045 g, 0.369 mmol); ADD toluene (10 mL); STIR for 1 h at 80° C.
+ADD 1,3-dicyclohexylcarbodiimide (0.114 g, 0.554 mmol); STIR for 18 h at 80 C.
+SETTEMPERATURE room temperature; CONCENTRATE; YIELD unknown.
+PURIFY gradient 25%-100% CH3CN:aqueous ammonium acetate; YIELD cis-N2-(4-{4-amino-1-[4-(4-methylpiperazino)cyclohexyl]-1H-pyrazolo[3,4-d]pyrimidin-3-yl}phenyl)-4-methyl-1,3-benzoxazol-2-amine (0.024 g, 12%).
+ADD N-(4-Ethyl-1,3-dioxolan-2-ylmethyl)-2-methoxyaniline (0.25 mole); ADD diethyl ether (30 ml); ADD sodium carbonate (35.5 grams); ADD water (50 ml).
+SETTEMPERATURE about 5° C; ADD chloroacetyl chloride (0.28 mole) dropwise.
+STIR for 1 hour.
+PHASESEPARATION; COLLECTLAYER organic; FILTER.
+WASH with aqueous sodium carbonate; DRYSOLUTION over anhydrous magnesium sulfate; FILTER keep filtrate.
+CONCENTRATE; YIELD desired product N-(4-ethyl-1,3-dioxolan-2-ylmethyl)-2-methoxy-α-chloroacetanilide.
+MAKESOLUTION with 2-amino-N-benzyl-6-methoxybenzamide (0.228 g, 0.89 mmol, 1.0 equiv) and anhydrous DMF (3 mL); ADD SLN; ADD 1-dodecanethiol (0.360 g, 1.78 mmol, 2.0 equiv); ADD NaOMe (0.385 g); ADD MeOH (2.0 equiv).
+MICROWAVE for 10 min at 150° C.
+WASH with ethyl acetate-methanol mixture.
+PURIFY; YIELD 2-Amino-N-benzyl-6-hydroxybenzamide (0.176 g, 82%).
+NOACTION.
+NOACTION.
+NOACTION.
+MAKESOLUTION with 4-nitrophenylboronic acid (0.909 g, 1.52 mmol, 1.2 eq) and tert-butyl 4-(((trifluoromethyl)sulfonyl)oxy)-2,3-dihydro-1H-pyrrole-1-carboxylate (1.44 g, 4.54 mmol) and LiCl (0.385 g, 9.08 mmol) and Pd(PPh3)4 (1.57 g, 1.36 mmol) and 1,4-dioxane (10 mL); ADD SLN; ADD 2 M aqueous Na2CO3 (5.70 mL, 9.09 mmol).
+STIR for 4 hours at 80-90° C.
+ADD EtOAc (70 mL); COLLECTLAYER organic; WASH with H2O (50 mL); WASH with brine (50 mL); DRYSOLUTION over Na2SO4; YIELD dark red oil.
+PURIFY gradient 0%-20% EtOAc:petroleum benzine; YIELD title compounds (0.442 g, 34%).
+ADD potassium ethoxide (52.5 mmol); ADD N,N-dimethylformamide (100 ml).
+SETTEMPERATURE 60° C; MAKESOLUTION with diethyl succinate (50 mmol) and acetone (57.5 mmol); ADD SLN dropwise over 10′.
+NOACTION.
+WAIT for 60′.
+ADD ethyl bromide (87.5 mmol) at 60° C.
+STIR for 60′ at 60° C.
+NOACTION.
+MAKESOLUTION with 1-(4-(difluoromethoxy)-3-methylphenyl)-2-phenylethane-1,2-dione (2. g, 6.89 mmol) and ethanol; ADD SLN; ADD sodium carbonate (1.095 g, 10.34 mmol); ADD 1-methylguanidine hydrochloride (1.132 g, 10.34 mmol); SETTEMPERATURE 80° C; SETTEMPERATURE room temperature; FILTER.
+WASH with EtOH.
+ADD CH2Cl2 (10 mL); PURIFY gradient 0%-10% MeOH:CH2Cl2; YIELD title product (2.04 g, 5.91 mmol, 86%).
+NOACTION.
+ADD tert-butyl 3-(benzylamino)-3-(2-fluorobenzyl)cyclohexylcarbamate; ADD HCl in dioxane (4 M); STIR for 5 hours at room temperature.
+CONCENTRATE; YIELD HCl salt of N1-benzyl-1-(2-fluorobenzyl)cyclohexane-1,3-diamine.
+ADD (S)-N-{1-[2-Bromo-7-(tert-butyldimethylsilyloxy)naphthalen-1-yl]-2-oxopyrrolidin-3-yl}-2-[1-(4-cyano-3-fluorobenzyl)-1H-imidazol-5-yl]acetamide (171 mg, 0.264 mmol); ADD THF (5 mL); ADD TBAF (1.0 M in THF) (0.26 mL, 0.26 mmol).
+WAIT for 45 min; ADD saturated aqueous NaHCO3; EXTRACT with CH2Cl2.
+COLLECTLAYER organic; DRYSOLUTION over Na2SO4; FILTER keep filtrate; CONCENTRATE.
+ADD 4-Methoxyphenylhydrazine hydrochloride (4.37 g, 25.0 mmol); ADD iodomethane (1.9 mL, 30.0 mmol); ADD CH2Cl2; SETTEMPERATURE 0° C; ADD Diisopropylethylamine (13 mL, 75 0 mmol) over 5 minutes; STIR for overnight at room temperature.
+QUENCH with saturated aqueous NH4Cl; EXTRACT with CH2Cl2.
+COLLECTLAYER organic; DRYSOLUTION over MgSO4; FILTER keep filtrate; CONCENTRATE; PURIFY gradient 30%-100% EtOAc:hexanes; YIELD desired product.
+INVALIDACTION.
+INVALIDACTION.
+NOACTION.
+FOLLOWOTHERPROCEDURE.
+ADD 2-(4-Bromo-phenyl)-2-methyl-oxirane (213 mg, 1 mmol); ADD 2-bromo-5-nitroimidazole (191 mg, 1 mmol); ADD triethylamine (0.4 mL); STIR for 6 hours at 80° C.
+YIELD yellow solid (330 mg).
+ADD DMF (5 mL); ADD Cs2CO3 (780 mg, 2.4 mmol).
+COLLECTLAYER organic; WASH with brine; DRYSOLUTION over Na2SO4; YIELD titled compound (178 mg, 55%).
+NOACTION.
+NOACTION.
+ADD Ninhydrin (6.00 g, 33.6 mmol); ADD m-cresol (3.78 ml, 33.6 mmol); ADD acetic acid (30 ml); REFLUX for 3 hrs.
+SETTEMPERATURE room temperature; WASH with acetic acid; WASH with water; YIELD title compound.
+NOACTION.
+FOLLOWOTHERPROCEDURE.
+MAKESOLUTION with (4-chloro-phenyl)-(4,6-dichloro-[1,3,5]triazin-2-yl)-amine (3.97 g, 14.4 mmol) and potassium carbonate (2.20 g, 15.9 mmol) and 18-crown-6 (46 mg, 0.17 mmol) and toluene (25 ml); ADD SLN; SETTEMPERATURE 0 °C; MAKESOLUTION with aniline (1.4 ml, 15.4 mmol) and toluene (10 ml); ADD SLN over 15 minutes.
+STIR for 24 hours at room temperature; ADD ethyl acetate (35 ml); FILTER keep filtrate.
+CONCENTRATE; RECRYSTALLIZE from chloroform; YIELD 6-Chloro-N-(4-chlorophenyl)-N′-phenyl-[1,3,5]triazine-2,4-diamine (2.20 g, 46% yield).
+NOACTION.
+MAKESOLUTION with 2-[(4-bromobutanoyl)amino]benzamide (500 mg, 1.75 mmol) and 4-phenyl-1,2,3,6-tetrahydropyridine hydrochloride (412 mg, 2.10 mmol) and N,N-dimethylformamide (5 mL); ADD SLN; ADD triethylamine (0.73 mL, 5.26 mmol) at 0° C under nitrogen.
+SETTEMPERATURE room temperature; STIR for 24 hour.
+QUENCH with water; EXTRACT with chloroform.
+COLLECTLAYER organic; WASH with water; DRYSOLUTION over sodium sulfate.
+PURIFY; YIELD 2-{[4-(4-phenyl-3,6-dihydro-1(2H)-pyridinyl)butanoyl]amino}benzamide (477 mg, 74.8%).
+ADD D-phenylalanine (15.0 g); ADD aqueous solution (45 ml); ADD 50% sodium hydroxide (7.26 g).
+STIR at 0°-10° C; ADD benzyl chloroformate (16.3 g).
+INVALIDACTION.
+ADD water (45 ml); ADD 50% sodium hydroxide (3.63 g).
+STIR for 20 minutes; PH with 6N hydrochloric acid to pH acidic.
+FILTER keep precipitate; WASH with water; WASH with hexane; DRYSOLID under vacuum; YIELD white solids (47 g).
+ADD ether; WASH with 1N hydrochloric acid 2 x; WASH with water; DRYSOLUTION over MgSO4; YIELD desired product (27.7 g).
+MAKESOLUTION with ethyl (2R)-4-{5-fluoro-2-oxo-4-[4-(2H-1,2,3-triazol-2-yl)phenyl]pyridin-1(2H)-yl}-2-methyl-2-(methylsulfonyl)butanoate (1.54 g, 3.33 mmol) and 2-methyltetrahydrofuran:water (1/1) (42.5 mL); ADD SLN; ADD Potassium hydroxide (1.30 g, 23.2 mmol); STIR for overnight at rt.
+ADD Methanol (5 mL); SETTEMPERATURE 60° C.
+STIR for 2 h at same temperature.
+CONCENTRATE; TRITURATE with 3 M aq HCl.
+FILTER keep precipitate; WASH with water (20 mL); WASH with hexanes (20 mL).
+DRYSOLID under vacuum; YIELD title compound (1.39 g, 98.3%).
+NOACTION.
+NOACTION.
+FOLLOWOTHERPROCEDURE.
+INVALIDACTION.
+MAKESOLUTION with methyl 4-isopropoxy-3-(methoxymethyl)benzoate (11.30 g, 47.42 mmol, 1 eq) and EtOH (339 mL); ADD SLN; ADD NaOH (47.42 mL, 5 M) at RT.
+STIR for 12 hours at RT.
+CONCENTRATE; YIELD yellow solid.
+ADD water; COLLECTLAYER aqueous; WASH with EtOAc; PH with HCl cc to pH 2.
+COLLECTLAYER aqueous; EXTRACT with EtOAc 2 x.
+COLLECTLAYER organic; WASH with brine; DRYSOLUTION over MgSO4; CONCENTRATE; YIELD title compound (9.71 g, 91%).
+NOACTION.
+NOACTION.
+MAKESOLUTION with 4-(trifluoromethoxy)aniline (1.0 g, 5.65 mmol) and 2,2,2-trichloroacetaldehyde (1.5 g, 10.18 mmol) and water (10.0 mL); ADD SLN; STIR for 1 h at room temperature.
+ADD hydroxylamine hydrochloride (0.63 g, 9.07 mmol); STIR for 1.5 h at 80° C.
+SETTEMPERATURE room temperature; FILTER keep precipitate; WASH with water; DRYSOLID under vacuum; YIELD crude title compound.
+MAKESOLUTION with cyclopentanone (26.2 μl, 296 μmol) and (S)-4-(5-amino-2-fluoro-phenyl)-4-methyl-5,6-dihydro-4H-[1,3]oxazin-2-ylamine (60 mg, 269 μmol) and dichloromethane (2 ml); ADD SLN; ADD acetic acid (30.8 μl, 538 μmol); ADD sodium triacetoxyborohydride (85.4 mg, 403 μmol).
+STIR for 2.5 hours at room temperature.
+QUENCH with saturated solution of sodium hydrogencarbonate; EXTRACT with ethyl acetate.
+COLLECTLAYER organic; WASH with water 2 x; DRYSOLUTION over sodium sulphate; CONCENTRATE.
+PURIFY gradient 50:50-0:100 n-hexane:ethyl acetate; YIELD (S)-4-(5-cyclopentylamino-2-fluoro-phenyl)-4-methyl-5,6-dihydro-4H-[1,3]oxazin-2-ylamine (5 mg, 6%).
+NOACTION.
+PURIFY.
+INVALIDACTION.
+SETTEMPERATURE -78°; MAKESOLUTION with 2-(3-oxo-trans-1-octenyl)-6-methyl-3-(5-carboethoxypentyloxy)-4-pyrone (1.8 g, 4.6 mmol) and tetrahydrofuran (20 ml); ADD SLN dropwise at -70° to -75°; ADD lithium triethylborohydride (30 ml, 4.6 mmole).
+STIR for 30 min; QUENCH with 10% aqueous acetic acid (3.0 ml); CONCENTRATE.
+ADD methylene chloride; WASH with aqueous sodium bicarbonate; WASH with brine solution.
+DRYSOLUTION over magnesium sulfate; CONCENTRATE; YIELD oil.
+PURIFY ether; YIELD 2-[(3RS)-3-hydroxy-trans-1-octenyl]-6-methyl-3-(5-carboethoxypentyloxy)-4-pyrone (0.5 g, 26%).
+NOACTION.
+ADD N1-[4-(3-Cyanoanilino)-5-nitro-6-oxo-1,6-dihydro-2-pyrimidinyl]acetamide (2.5 g); ADD acetonitrile (50 ml); ADD tetraethylammonium chloride (2.64 g); ADD N,N-dimethylaniline (1 ml); ADD phosphorus oxy-chloride (4.5 ml); REFLUX for 5 hours.
+SETTEMPERATURE room temperature; ADD ice-water; STIR for 30 minutes.
+FILTER keep precipitate; WASH with water; DRYSOLID; YIELD N1-[4-chloro-6-(3-cyanoanilino)-5-nitro-2-pyrimidinyl]acetamide (2.5 g).
+NOACTION.
+MAKESOLUTION with N-[4-(6-chloro-3-methyl-4,10-dihydro-3H-2,3,4,9-tetraaza-benzo[f]azulene-9-carbonyl)-3-methyl-benzyl]-3-piperidin-4-yl-propionamide hydrochloride (2.97 mg, 0.005 mmol) and dichloromethane (0.05 ml) and triethylamine (0.0035 ml); ADD SLN; MAKESOLUTION with ethanesulfonyl chloride (0.64 mg, 0.005 mmol) and dichloromethane (0.05 ml); ADD SLN.
+STIR for 1 h at room temperature; CONCENTRATE; YIELD title compound.
+NOACTION.
+ADD 4-(1H-Pyrrolo[3,2-c]pyridin-3-yl)-piperidine-1-carboxylic acid tert-butyl ester (2.0 g, 6.6 mmol); ADD 1:1 TFA/CH2Cl2.
+WAIT for 45 min; CONCENTRATE; ADD Et2O; FILTER keep precipitate; WASH with Et2O; DRYSOLID under air; YIELD white solid (2.1 g, 100%).
+NOACTION.
+MAKESOLUTION with 4-chloro-2-(4-fluoro-1H-indol-2-yl)phenol (40 mg, 0.15 mmol) and DMF (1 mL) and K2CO3 (40 mg, 0.31 mmol) and CH2Br2 (53 mg, 0.31 mmol); ADD SLN at 25° C.
+STIR for 2 hours at 80° C; SETTEMPERATURE 25° C.
+ADD H2O (50 mL); EXTRACT with ethyl acetate; WASH with brine; DRYSOLUTION over Na2SO4.
+CONCENTRATE; PURIFY 10:1 petroleum ether:EtOAc; YIELD 2-chloro-11-fluoro-6H-benzo[5,6][1,3]oxazino[3,4-a]indole (50 mg, 45%).
+NOACTION.
+NOACTION.
+MAKESOLUTION with 2-(5-bromo-4-(1-cyclopropylnaphthalen-4-yl)-4H-1,2,4-triazol-3-ylthio)acetic acid (810 mg, 2.0 mmol) and pyridine (20 mL); ADD SLN; ADD Phosphorus oxychloride (2.4 mmol) dropwise at 0° C over 5 mins.
+STIR for 3 hours at 0° C; STIR for 1 hour at 20° C; QUENCH with water (1 mL).
+CONCENTRATE; ADD DCM (200 mL).
+COLLECTLAYER organic; WASH with water (50 mL); WASH with saturated sodium carbonate solution (50 mL); WASH with brine (50 mL); DRYSOLUTION over Na2SO4; CONCENTRATE.
+ADD Ethanol; ADD water; FILTER keep precipitate.
+COLLECTLAYER organic; DRYSOLUTION over unknown; PURIFY : acetone:DCM.
+ADD solids; ADD acetic acid (25 mL); ADD water (5 mL); STIR for 3 hours at 60° C.
+CONCENTRATE.
+ADD Ethanol; ADD water; FILTER keep precipitate.
+MAKESOLUTION with camphorsulfonic acid (74 mg, 0.32 mmol) and isopropyl alcohol (5 mL); ADD SLN; MICROWAVE for 80 minutes at 120° C.
+ADD camphorsulfonic acid (35 mg); MICROWAVE for 1 hour.
+CONCENTRATE; PARTITION with dichloromethane and saturated sodium bicarbonate solution.
+PHASESEPARATION; COLLECTLAYER organic; DRYSOLUTION over sodium sulfate; CONCENTRATE.
+TRITURATE with ether.
+PHASESEPARATION; CONCENTRATE; PURIFY gradient 0%-30% acetonitrile:water; YIELD 5-Chloro-N*2*,N*4*-bis-(3-ethyl-2,3,4,5-tetrahydro-1H-benzo[d]azepin-7-yl)-pyridine-2,4-diamine (55 mg, 76%).
+NOACTION.
+MAKESOLUTION with phenylmethyl methyl({3-nitro-4-[(2,2,2-trifluoroethyl)amino]phenyl}sulfonyl)carbamate (1 g, 2.24 mmol) and DMF (1 mL); ADD SLN; SETTEMPERATURE 25° C; ADD NaH (0.179 g, 4.47 mmol); STIR for 2 min; ADD iodomethane (0.42 mL, 6.71 mmol).
+WAIT for 1 h; ADD water; EXTRACT with EtOAc.
+COLLECTLAYER organic; WASH with (brine); DRYSOLUTION over Na2SO4; CONCENTRATE; PURIFY gradient 10%-35% EtOAc:hexanes; YIELD phenylmethyl methyl({4-[methyl(2,2,2-trifluoroethyl)amino]-3-nitrophenyl}sulfonyl)carbamate (539 mg, 53%).
+NOACTION.
+MAKESOLUTION with magnesium (0.25 g, 10.58 mmol) and anhydrous THF (5.3 mL); ADD SLN; ADD 2-bromothiophene (1.73 g, 10.58 mmol) dropwise.
+REFLUX for 0.5 h under argon; ADD 2-bromothiophene (0.35 g).
+STIR for 3 h under argon.
+SETTEMPERATURE rt; QUENCH with water.
+EXTRACT with CH2Cl2.
+COLLECTLAYER organic; DRYSOLUTION over MgSO4; CONCENTRATE.
+PURIFY hexane; YIELD colorless liquid (1.46 g, 72%).
+MAKESOLUTION with catalyst (0.04 g) and cis-cyclooctene (1.4 g, 11.5 mmol) and tert-butanol (10 ml); ADD SLN; ADD Hydrogen peroxide (2 ml) at 30° C under nitrogen.
+STIR for 48 h at 30° C under nitrogen.
+FILTER keep precipitate; WASH with ether (80 ml).
+COLLECTLAYER organic; WASH with water (40 ml) 2 x; DRYSOLUTION over magnesium sulphate.
+FILTER keep filtrate; CONCENTRATE; YIELD 9-oxabicyclo[]-1'-0] nonane (0.95 g, 65%).
+NOACTION.
+ADD 4-(5-{[3-(trifluromethyl)phenyl]amino}-4H-1,2,4-triazol-3-yl)phenol (160 mg, 0.5 mmol); ADD anhydrous dioxane (3 mL).
+ADD Solid Cs2CO3 (163.0 mg, 0.5 mmol); ADD 4-chloro-2,6,-diaminopyrimidine (79.5 mg, 0.55 mmol).
+MICROWAVE for 20 min at 200° C.
+ADD MeOH (3 mL); CONCENTRATE.
+ADD DMF (3 mL); FILTER keep filtrate; PURIFY : water:water.
+MAKESOLUTION with diethyl oxalate (21.06 g, 0.144 mol) and ethyl benzyloxyacetate (28.0 g, 0.144 mol) and dry tetrahydrofliran (200 ml); ADD SLN; ADD sodium hydride (6.34 g) at 22° C.
+ADD Ethanol (0.05 ml); STIR for 18h at 22° C.
+CONCENTRATE; MAKESOLUTION with sodium ethoxide (0.072 mol) and sodium (1.65 g) and ethanol (200 ml); ADD SLN.
+ADD 2-methyl-2-thiopseudourea sulfate (20.1 g, 0.072 mol); STIR for 6 h at 60° C.
+ADD Acetic acid (5 ml); CONCENTRATE.
+PARTITION with water and dichloromethane; COLLECTLAYER aqueous; EXTRACT with dichloromethane 2 x.
+COLLECTLAYER organic; WASH with saturated sodium bicarbonate; WASH with brine; DRYSOLUTION over anhydrous magnesium sulfate; CONCENTRATE.
+RECRYSTALLIZE from ethyl acetate-hexane; YIELD ester (8.34 g, 8%).
+NOACTION.
+NOACTION.
+NOACTION.
+NOACTION.
+ADD 1-(4-bromobutyl)-2-pyrrolidinone (9 g); ADD 1-[6-(trifluoromethyl)-2-pyridinyl]-piperazine (7.6 g); ADD butanol (100 ml).
+ADD sodium carbonate (4.3 g); REFLUX for 3 hours.
+FILTER keep precipitate; WASH with butanol; CONCENTRATE.
+ADD dichloromethane; WASH with water; DRYSOLUTION over anhydrous magnesium sulfate; CONCENTRATE; YIELD 1-[4-[4-[6-(trifluoromethyl)-2-pyridinyl]-1-piperazinyl]-butyl]-2-pyrrolidinone (12.5 g).
+MAKESOLUTION with fumaric acid (3.9 g) and absolute ethanol; ADD SLN.
+RECRYSTALLIZE from absolute ethanol 2 x; YIELD 1-[4-[4-[6-(trifluoromethyl)-2-pyridinyl]-1-piperazinyl]butyl]-2pyrrolidinone (7.8 g, 43.6%).
+YIELD (E)-2-butenedioate.
+NOACTION.
+ADD 4-Chloro-2-iodo-phenylamine (150 g, 0.591 mol); ADD benzenesulfonic acid (3 g, 0.018 mol, 0.03 eq); ADD acetontrile (500 mL).
+SETTEMPERATURE 70 C; ADD benzhydrol (120 g, 0.652 mol, 1.1 eq); ADD acetonitrile (500 mL); STIR for 7.5 h.
+WAIT for 4 h.
+SETTEMPERATURE 25 C; ADD water (290 mL) dropwise over 30-40 min.
+STIR for over night at 23 C.
+FILTER keep precipitate; WASH with MeCN/water (1/1) 2 x; DRYSOLID for 15 h at 50 C under vacuum; YIELD product (218.5 g, 88%).
+MAKESOLUTION with 1-methylethyl((2S,4R)-1-acetyl-6-{5-[2-({[(1,1-dimethylethyl)oxy]carbonyl}amino)ethyl]-1,2,4-oxadiazol-3-yl}-2-methyl-1,2,3,4-tetrahydro-4-quinolinyl)carbamate (260 mg, 0.518 mmol) and 1,4-Dioxane (1 mL); ADD SLN; ADD HCl (4N in 1,4-dioxane) (1.00 mL, 4 mmol); STIR for 16 h at room temperature.
+ADD Et2O (10 mL); FILTER keep precipitate; YIELD 1-methylethyl {(2S,4R)-1-acetyl-6-[5-(2-aminoethyl)-1,2,4-oxadiazol-3-yl]-2-methyl-1,2,3,4-tetrahydro-4-quinolinyl}carbamate hydrochloride (195 mg, 0.446 mmol, 86%).
+MAKESOLUTION with 4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidine-1-carboxylic acid [1-(1H-indazol-5-ylmethyl)-2-oxo-2-piperazin-1-yl-ethyl]-amide (100 mg, 0.188 mmol) and methanol (25 mL); ADD SLN; ADD 2-methyl-butyraldehyde (0.03 ml, 0.376 mmol).
+WAIT for 1 h at room temperature; ADD sodium triacetoxyborohydride (80 mg, 0.316 mmol).
+STIR for overnight.
+FILTER keep filtrate.
+PURIFY methanol.
+CONCENTRATE; YIELD desired product 50% yield).
+NOACTION.
+FOLLOWOTHERPROCEDURE.
+MAKESOLUTION with N′1-(3-chlorobenzoyl)-3-nitrobenzene-1-carbohydrazide (0.321 g) and POCl3 (3 mL); ADD SLN; STIR for 24 h at 90° C.
+QUENCH with ice-water; FILTER keep precipitate; WASH with water; DRYSOLID; YIELD [2-(3-chlorophenyl)-1,3,4-oxadiazol-5-yl]-3-nitrobenzene.
+NOACTION.
+NOACTION.
+WAIT for 5 min; ADD phenyl 2-[4-(2-ethyl-5,7-dimethyl-3H-imidazo[4,5-b]pyridin-3-yl)phenyl]ethylcarbamate (100 mg, 0.24 mmol); STIR for 1 h.
+ADD water (50 mL); EXTRACT with diethyl ether (50 mL) 2 x.
+COLLECTLAYER organic; WASH with water (50 mL); WASH with brine (50 mL); DRYSOLUTION over MgSO4.
+YIELD solids.
+PURIFY ethyl acetate; YIELD title compound (66 mg, 50%).
+MAKESOLUTION with naphthalene-2-carboxylic acid hydrazide (0.7 g, 3.76 mmol) and isopropanol (40 ml); ADD SLN; ADD triethylamine (630 μl, 4.51 mmol); ADD diphenyl cyanocarbonimidate (0.99 g, 4.14 mmol); STIR for 1.5 h at room temperature.
+CONCENTRATE; ADD water (50 ml); ADD diethyl ether (50 ml).
+PHASESEPARATION; COLLECTLAYER organic; PH with concentrated hydrochloric acid to pH 5-.
+FILTER keep precipitate; WASH with water (10 ml) 3 x; WASH with diethyl ether (10 ml) 2 x; DRYSOLID at 50° C under vacuum; YIELD title compound (0.45 g, 59%).
+FOLLOWOTHERPROCEDURE.
+MAKESOLUTION with 6-chloro-N-[4-[[3-[[5-(trifluoromethyl)-2-pyridyl]oxy]phenyl]-methylene]cyclohexyl]pyridine-3-carboxamide (150 mg, 0.3 mmol) and Ethanol (5 mL); ADD SLN; ADD sodium ethoxide (42 mg, 0.6 mmol); REFLUX for 19 h.
+CONCENTRATE.
+ADD ethyl acetate (15 mL); WASH with water (15 mL); WASH with brine (15 mL); DRYSOLUTION over anhydrous sodium sulfate; FILTER keep filtrate; CONCENTRATE; PURIFY; YIELD titled compound (30 mg, 20%).
+MAKESOLUTION with 5-[4-Chloro-3-(4-methyl-piperazine-1-sulfonyl)-phenyl]-4-methyl-thiazol-2-ylamine hydrobromide (0.1 g, 0.26 mmol) and DMF (1 ml); ADD SLN; ADD DIPEA (0.07 g, 0.52 mmol) at room temperature; ADD ethyl isocyanate (0.025 ml, 0.33 mmol) at room temperature.
+STIR for 1 hour at 120° C; SETTEMPERATURE room temperature.
+YIELD titled compound.
+ADD DMF (30 ml); ADD 1-(2-Chloroethyl)-5-fluoro-3-(4-methoxyphenyl)-8-propoxy-1H-quinolin-4-one (3.5 g, 8.98 mmol); ADD methyl 3-mercaptopropionate (1.19 g, 9.88 mmol); ADD sodium iodide (1.48 g, 9.88 mmol); STIR for 5 hours at 80° C.
+ADD Water; ADD ethyl acetate; PHASESEPARATION.
+COLLECTLAYER organic; WASH with water; DRYSOLUTION over anhydrous magnesium sulfate; CONCENTRATE.
+PURIFY dichloromethane.
+CONCENTRATE; YIELD methyl 3-{2-[5-fluoro-3-(4-methoxyphenyl)-4-oxo-8-propoxy-4H-quinolin-1-yl]ethylsulfanyl}propionate (3.2 g, 75%).
+ADD 7-benzyloxy-5-{1-hydroxy-2-[2-(4-methoxy-phenyl)-1,1-dimethyl-ethylamino]-ethyl}-1H-quinolin-2-one (128 mg, 0.27 mmol); ADD methanol (12 mL); ADD palladium on charcoal.
+FILTER keep filtrate; CONCENTRATE.
+FOLLOWOTHERPROCEDURE.
+MAKESOLUTION with 5-(3-tert-butoxycarbonylamino-propyl)-3-methyl-4-oxo-2-(tetrahydro-pyran-2-yl)-4,5-dihydro-2H-pyrazolo[4,3-c]quinoline-8-carboxylic acid (0.10 g, 0.21 mmol) and CH2Cl2 (2 mL); ADD SLN; ADD amine (0.034 uL, 0.31 mmol); ADD DIEA (0.1 mL, 0.62 mmol); ADD HATU (0.12 g, 0.31 mmol).
+NOACTION.
+STIR for 48 h at 22° C; CONCENTRATE; PURIFY; YIELD {3-[8-(2-dimethylamino-ethylcarbamoyl)-3-methyl-4-oxo-2-(tetrahydro-pyran-2-yl)-2,4-dihydro-pyrazolo[4,3-c]quinolin-5-yl]-propyl}-carbamic acid tert-butyl ester (0.075 g, 0.14 mmol).
+NOACTION.
+MAKESOLUTION with tert-butyl 3-oxopiperidine-1-carboxylate (11.5 g, 57.7 mmol) and ammonium chloride (10.7 g, 200 mmol) and isopropyl alcohol-25% aqueous ammonia (50 mL-126 mL); ADD SLN; ADD potassium cyanide (13.1 g, 200 mmol); STIR for 3 days.
+EXTRACT with ethyl acetate 3 x; COLLECTLAYER organic; DRYSOLUTION over anhydrous magnesium sulfate.
+CONCENTRATE; YIELD tert-butyl 3-amino-3-cyanopiperidine-1-carboxylate (12.95 g).
+MAKESOLUTION with crude product (5.00 g, 22.2 mmol) and triethylamine (4.7 mL, 33.3 mmol) and tetrahydrofuran (100 mL); ADD SLN; ADD propionyl chloride (2.5 mL, 28.9 mmol); STIR for 30 min at room temperature.
+ADD saturated aqueous sodium hydrogencarbonate solution.

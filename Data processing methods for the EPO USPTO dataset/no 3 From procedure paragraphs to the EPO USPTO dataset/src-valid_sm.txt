@@ -1,0 +1,300 @@
+In 1.5 ml of N,N-dimethylformamide was dissolved 150 mg of ethyl 2-[6-chloro-2-(2,4-difluorophenylamino)-5-fluoronicotinoyl]acetate, and 70 mg of thiophenol and 60 mg of triethylamine were added thereto, after which the resulting mixture was subjected to reaction at room temperature for 1 hour.
+Subsequently, to the reaction mixture were added 20 ml of ethyl acetate and 10 ml of water, and the pH thereof was adjusted to 2.0 with 2N hydrochloric acid.
+The organic layer was separated, washed successively with 10 ml of water and 10 ml of saturated aqueous sodium chloride solution, and then dried over anhydrous magnesium sulfate.
+The solvent was removed by distillation under reduced pressure, and to the crystalline material thus obtained was added 5 ml of n-hexane, after which crystals were collected by filtration to obtain 170 mg (yield 94.6%) of ethyl 2-[2-(2,4-difluorophenylamino)-5-fluoro-6-phenylthionicotinoyl]acetate.
+The physical properties of this compound were identical with those of the compound obtained in Example 19.
+Using essentially the method for the intermediate of Example 12, starting from 3-(4(3(S)-aminopyrrolidin-1-yl)-3-fluorophenyl)-5(R)-(N-2,2,2-trichloroethyloxycarbonyl)isoxazol-3-ylaminomethyl)oxazolidin-2-one hydrochloride salt (419 mg, 0.73 mM) and 2-methoxyethyl chloroformate (450 mg, 3.27 mM) gave the title compound (442 mg).
+A mixture of N-[2-benzyloxy-5-[(1R)-1-hydroxy-2-[(1S)-2 -hydroxy-1-[4-(imidazo[1,2-a]pyridin-5-yloxy) benzyl]-ethylamino]ethyl]phenyl]methanesulfonamide (74.0 mg, 0.124 mmol), palladium (10% on activated carbon, 50% wet, 50 mg) and methanol (4.0 ml) was hydrogenated (1 atm) for 90 minutes.
+The catalyst was removed by filtration using Celite and washed with methanol.
+The filtrate was concentrated in vacuo to give N-[2-hydroxy-5-[(1R)-1-hydroxy-2-[(1S)-2 -hydroxy-1-[4-(imidazo[1,2-a]pyridin-5-yloxy) benzyl]-ethylamino]ethyl]phenyl]methanesulfonamide (50.8 mg, 81%) as a white solid.
+6-Amino-2-anilino-9-benzyl-8-bromopurine (80 mg, 0.20 mmol) in concentrated hydrochloric acid (200 ml) and methanol (50 ml) were refluxed for 5 hours under heating.
+The reaction mixture was condensed in vacuo, 28% aqueous ammonia was added to the residue.
+The resulting solid was filtered, washed with water and dried to give the subject compound (67 mg yield: quantitatively).
+A mixture of 3.3 parts of 3-(2-ethoxyethyl)-2-[4-(1-piperazinyl)butyl]-3H-imidazo[4,5-b]pyridine, 2.9 parts of 2-(chloromethyl)-3-(2-ethoxyethyl)-3H-imidazo[4,5-b]pyridine, 1.2 parts of sodium carbonate and 22.5 parts of N,N-dimethylacetamide was stirred for 6 hours at 70° C.
+The reaction mixture was evaporated and the residue was extracted with dichloromethane.
+The extract was dried, filtered and evaporated.
+The residue was converted into the ethanedioate salt in 2-propanol.
+The salt was filtered off and crystallized from 2-propanol.
+The product was filtered off and dried, yielding 0.7 parts (6.8%) of 3-(2-ethoxyethyl)-2-[[4-[4-[3-(2-ethoxyethyl)-3H-imidazo-4,5-b]pyridin-2-yl]butyl]-1-piperazinyl]methyl]-3H-imidazo[4,5-b]pyridine ethanedioate(1:6); mp. 121.9° C. (compound 24).
+To a solution of 0.539 g (1.000 mmol) 3-{1-[4-(4-amino-3-chloro-5-trifluoromethyl-phenyl)-3-hydroxymethyl-butyryl]-piperidin-4-yl}-1,3,4,5-tetrahydro-1,3-benzodiazepin-2-one (Intermediate product 35) in 10 mL dichloromethane was added 0.933 g (2.200 mmol) Dess-Martin-Periodinane and the mixture was stirred for 3 hours at RT.
+The reaction mixture was washed with sat. aqueous sodium thiosulphate solution and sat. aqueous NaCl solution, dried over sodium sulphate and evaporated down i. vac.
+The crude product was purified by column chromatography (silica gel, gradient dichloromethane/MeOH 50:1→25:1 v/v).
+Following General Procedure I above and using 3-bromophenylacetic acid (Aldrich) and iso-butyl 2-aminobutyrate (prepared following General Procedure J above), the title compound was prepared.
+The reaction was monitored by tlc on silica gel and purification was by filtration as described in the general procedure.
+A solution of 3-(3-benzyloxy-phenyl)-2-methoxy-acrylic acid methyl ester (Example 291, Step 2) (3.96 g) in methanol (10 mL) was placed in a round bottom flask equipped with a reflux condenser.
+The mixture was cooled to 0° C. and Mg turnings (6.45 g) were added.
+The mixture was initially stirred vigorously and then further stirred at room temperature for about an hour.
+The solvent was evaporated under vacuum, and 100 mL of diethyl ether were added to the resulting solid.
+HCl (3N, 100 mL) was added and the solution was stirred for one minute.
+The organic layer was separated from the slurry, and 100 mL of diethyl ether and HCl (3N, 100 mL) were added to the remaining slurry.
+The combined ethereal extracts were washed with brine and dried over MgSO4.
+Concentration of the mixture afforded a yellow oil which was about 90% pure bye NMR.
+1H-NMR (CDCl3, 200.15 MHz): 7.45–7.17 (m, 6H), 6.88–6.81 (m, 3H), 5.05 (s, 2H), 3.97 (dd, 1H, J=7.3, 5.4), 3.72 (s, 3H), 3.34 (s, 3H), 3.00 (d, 1H, J=5.1), 2.99 (d, 1H, J=7.8).
+To a solution of 3-cyano-4-[(1-methylethyl)oxy]benzoic acid (200 mg) in tetrahydrofuran (THF) (10 mL) was added EDC (374 mg) and HOBt (299 mg).
+The mixture was stirred for half an hour.
+Ethyl 3-{5-fluoro-6-[(Z)-(hydroxyamino)(imino)methyl]-1H-indol-3-yl}propanoate (D155) (286 mg) was then added and the resulting mixture was stirred further for 1 hour.
+Finally, TBAF (1019 mg) was added to the solution and the reaction vessel was sealed and heated in macrowave at 120° C. for two hours.
+After cooling the reaction, the solution was diluted with ethyl acetate (80 mL) and washed with water (2×60 mL).
+The organic layer was then concentrated under vacuo and the residue was chromatographed on silica gel to give the designed product ethyl 3-[6-(5-{3-cyano-4-[(1-methylethyl)oxy]phenyl}-1,2,4-oxadiazol-3-yl)-5-fluoro-1H-indol-3-yl]propanoate (D157) (250 mg).
+MS (ES): C25H23FN4O4 requires 462.2.
+found 463.2 (M+H+).
+A solution of di-tert-butyl dicarbonate (2.0 g, 9.2 mmol) and 4,4′-methylenedianiline (1.8 g, 9.2 mmol) in DMF (100 mL) was heated at the reflux temp. for 2 h, then cooled to room temp.
+This mixture was diluted with EtOAc (200 mL) sequentially washed with a saturated NH4Cl (200 mL) and a saturated NaCl solution (100 mL), and dried (MgSO4).
+The residue was purified by flash chromatography (30% EtOAc/70% hexane) to give the desired carbamate (1.3 g, 48%): 1H-NMR (CDCl3) δ 1.51 (s, 9H), 3.82 (s, 2H), 6.60-7.20 (m, 8H).
+To a solution of 4,5,6,7-tetrahydrobenzo[d]thiazol-2-amine (200 mg, 1.297 mmol) in tetrahydrofuran (4.3 mL) were added 3-(trifluoromethyl)benzoyl chloride (324 mg, 1.56 mmol) and potassium carbonate (359 mg, 2.59 mmol).
+The reaction mixture was stirred at 80° C. for 5 hours and then concentrated under reduced pressure.
+To the resulting intermediate (0.43 mmol) were added N,N-dimethylformamide (1.5 mL) and ethyl bromoacetate (93 mg, 0.559 mmol).
+The reaction mixture was stirred at 80° C. for 3 hours and then cooled to room temperature.
+The reaction mixture was quenched with water and then extracted with ethyl acetate.
+The extract was dried over anhydrous magnesium sulfate, filtered, and then evaporated.
+The residue was purified with silica gel column chromatography (n-hexaneethyl acetate=41) to give 103 mg of the titled compound as a white solid (Yield: 58%).
+Into a 5,000 ml 3-necked roundbottom flask, was placed a solution of (1-benzylpyrrolidin-2-yl)methanol (250. g, 1.30 mol) in chloroform (2,500 ml).
+This was followed by the dropwise addition of a solution of thionyl chloride (232. g, 1.95 mol) in chloroform (500 ml), while maintaining the internal temperature at room temperature (60 minute addition time).
+The resulting solution was heated to reflux for 2 hours.
+After cooling to ambient temperature, the mixture was concentrated, and the resulting residue was dissolved in 3,000 ml of ethyl acetate.
+Adjustment of the pH to 7 was accomplished by the addition of triethylamine.
+The resulting mixture was filtered and the filtrate was concentrated and the residue was purified by flash column chromatography (ethylacetate/petroleum ether gradient) to afford 1-benzyl-2-(chloromethyl)pyrrolidine.
+1-Isobutyl-3-methyl-5-(5-m-tolyl-2-trifluoromethyl-3H-imidazol-4-yl)-1,3-dihydro-benzoimidazol-2-one (prepared as described previously using the method described for example 63 and Lombardino, J. G.; Wiseman, E. H. J. Med. Chem. 1974, 17(11), 1182-1188, 20 mg, 0.05 mmol) was suspended in 5% aqueous ammonium hydroxide solution (4.7 mL)
+.
+The suspension was stirred for 5 days, after which time the reaction was concentrated in vacuo.
+The resulting material was purified by LC (Waters Symmetry C8, acetonitrile/water 40% to 100%) to afford 8 mg of the title compound as a white solid.
+MS (M+1)=386.2
+The Stille coupled product was prepared according to Procedure E using 2,4-dichloro-3-methyl-1,8-naphthyridine (540 mg, 2.53 mmol), 2-(1,1,1-tributylstannyl)pyridine (933 μL, 2.53 mmol), Pd(PPh3)4 in toluene (10 mL) and heating at reflux for 14 h.
+The reaction was allowed to cool to rt and evaporated in vacuo.
+The resulting residue was triturated with hexanes and the solid was dried under vacuum to give 4-chloro-3-methyl-2-(pyridin-2-yl)-1,8-naphthyridine.
+1H NMR (400 MHz, CDCl3) δ ppm 9.14 (1H, dd, J=4.3, 2.0 Hz), 8.72 (1H, ddd, J=4.9, 1.8, 1.0 Hz), 8.65 (1H, dd, J=8.3, 1.9 Hz), 8.09 (1H, dt, J=8.0, 1.1 Hz), 7.90 (1H, td, J=7.7, 1.8 Hz), 7.60 (1H, dd, J=8.3, 4.2 Hz), 7.40 (1H, ddd, J=7.6, 4.8, 1.3 Hz), 2.75 (3H, s)
+1,1′-Thiocarbonyldi-2(1H)-pyridone (0.086 g, 0.369 mmol) was added to a solution of cis-3-(4-aminophenyl)-1-[4-(4-methylpiperazino)cyclohexyl]-1H-pyrazolo[3,4-d]pyrimidin-4-amine (0.150 g, 0.369 mmol) in pyridine (7 mL) at 0° C., and the mixture was stirred for 1 h at 0° C.
+The resulting orange solution was partitioned between dichloromethane (10 mL) and water (10 mL)
+The organic layer was separated and washed with 0.5 N HCl (10 mL), dried over anhydrous magnesium sulfate, filtered, and concentrated.
+2-Amino-m-cresol (0.045 g, 0.369 mmol) was added to a suspension of the resulting orange solid and toluene (10 mL), and the mixture was heated at 80° C. for 1 h.
+1,3-dicyclohexylcarbodiimide (0.114 g, 0.554 mmol) was added and the reaction mixture was heated at 80 C for an additional 18 h.
+The resulting orange brown solution was cooled to room temperature and concentrated to afford a light brown glassy solid.
+Purification by preparative HPLC (25 to 100% CH3CN in 0.1 N aqueous ammonium acetate over 20 min at 21 mL/min using a 8μ Hypersil HS C18, 250×21 mm column, tr=8.1-10.3 min.) afforded cis-N2-(4-{4-amino-1-[4-(4-methylpiperazino)cyclohexyl]-1H-pyrazolo[3,4-d]pyrimidin-3-yl}phenyl)-4-methyl-1,3-benzoxazol-2-amine as an off-white solid (0.024 g, 12%): 1H NMR (DMSO-d6, 400 MHz) δ 10.81 (s, 1H), 8.24 (s, 1H), 7.96 (d, 2H), 7.66 (d, 2H), 7.33 (d, 1H), 7.06 (m, 2H), 4.80 (m, 1H), 3.391 (m, 1H), 2.67-2.10 (m, 18H), 1.71-1.60 (m, 4H);
+N-(4-Ethyl-1,3-dioxolan-2-ylmethyl)-2-methoxyaniline (0.25 mole), diethyl ether (30 ml), sodium carbonate (35.5 grams) and water (50 ml) are charged into a glass reaction vessel equipped with stirrer, thermometer and cooling means.
+The mixture is cooled to about 5° C. and chloroacetyl chloride (0.28 mole) is added dropwise with stirring.
+After the addition is completed, stirring is continued for 1 hour.
+After this time the organic phase is separated from the aqueous phase and is filtered.
+The filtrate is then washed with aqueous sodium carbonate, dried over anhydrous magnesium sulfate and filtered.
+The filtrate is then stripped of solvent under reduced pressure to yield the desired product N-(4-ethyl-1,3-dioxolan-2-ylmethyl)-2-methoxy-α-chloroacetanilide as the residue.
+To a solution of 2-amino-N-benzyl-6-methoxybenzamide (0.228 g, 0.89 mmol, 1.0 equiv) in 3 mL of anhydrous DMF was added 1-dodecanethiol (0.360 g, 1.78 mmol, 2.0 equiv), followed by adding NaOMe (0.385 g of 25% solution in MeOH, 1.78, 2.0 equiv).
+The mixture was heated in a microwave at 150° C. for 10 min.
+The mixture passed through a silica gel plug, which was washed with an ethyl acetate-methanol mixture (1:1).
+The crude product was purified by PL-SO3H MP SPE (Varian) to give 2-Amino-N-benzyl-6-hydroxybenzamide (0.176 g, 82%) as thick oil.
+1H NMR (400 MHz, CHLOROFORM-d) δ 3.55-4.20 (vb.s., 2H), 4.60 (s, 1H), 4.61 (s, 1H), 6.25 (d, J=7.8 Hz, 1H), 6.50 (d, J=8.2 Hz, 1H), 7.09 (t, J=8.0 Hz, 1H), 7.16-7.52 (m, 5H), 8.58 (br. s., 1H), 12.05 (br. s., 1H); HPLC: tR=3.97 min, UV254=98%;
+HRMS (ESI): m/z calcd for C14H14N2O2 [M+1]+ 243.1140.
+Found 243.1134.
+A solution of 2 M aqueous Na2CO3 (5.70 mL, 9.09 mmol) was added to a degassed mixture of 4-nitrophenylboronic acid (0.909 g, 1.52 mmol, 1.2 eq), tert-butyl 4-(((trifluoromethyl)sulfonyl)oxy)-2,3-dihydro-1H-pyrrole-1-carboxylate (I34 and 135) (1.44 g, 4.54 mmol), LiCl (0.385 g, 9.08 mmol) and Pd(PPh3)4 (1.57 g, 1.36 mmol) in 1,4-dioxane (10 mL).
+The reaction mixture was stirred at 80-90° C. for 4 hours.
+The resulting mixture was dissolved in EtOAc (70 mL) and the organic layer was washed with H2O (50 mL), brine (50 mL) and dried over Na2SO4 to yield a dark red oil.
+The oil was purified by column chromatography on silica gel (0-20% EtOAc in petroleum benzine 40-60° C.) to give a mixture of the title compounds (1134 and 1135) (0.442 g, 34%) as a light yellow solid; 1H NMR (400 MHz, CDCl3) δ 8.41-8.32 (m, 2H), 8.24-8.19 (m, 2H), 7.81-7.73 (m, 2H), 7.52 (dd, J=8.8, 2.4 Hz), 6.43-6.33 (m, 1H), 4.58-4.48 (m, 4H), 4.42-4.31 (m, 4H), 1.52 (s, 9H), 1.51 (s, 9H).
+52.5 mmol of potassium ethoxide were suspended in 100 ml of N,N-dimethylformamide in a 250 mL round bottom flask.
+To this slurry, heated up to 60° C., a mixture of 50 mmol of diethyl succinate and 57.5 mmol of acetone was added dropwise in 10′.
+The course of the reaction was detected by GC.
+After 60′ the reaction was completed with a conversion of 97.2% (determined by GC).
+Then 87.5 mmol of ethyl bromide were added to the reaction mixture at 60° C.
+The slurry was stirred for 60′ at 60° C.
+The reaction was complete, giving the product isomers with a yield of 95% (determined by GC).
+A solution of 1-(4-(difluoromethoxy)-3-methylphenyl)-2-phenylethane-1,2-dione (2. g, 6.89 mmol) in ethanol was treated with sodium carbonate (1.095 g, 10.34 mmol) and 1-methylguanidine hydrochloride (1.132 g, 10.34 mmol), heated to 80° C., cooled to room temperature and filtered.
+The filter cake was washed with EtOH.
+The resultant residue was dissolved in CH2Cl2 (10 mL) and purified by flash chromatography (0-10% MeOH in CH2Cl2) to provide the title product as an off white solid, 2.04 g, 5.91 mmol, 86% yield, identified by NMR and mass spectral analyses.
+MS m/e (M+H)+ 346.00.
+tert-butyl 3-(benzylamino)-3-(2-fluorobenzyl)cyclohexylcarbamate was stirred in a solution of HCl in dioxane (4 M) at room temperature for 5 hours.
+The product, HCl salt of N1-benzyl-1-(2-fluorobenzyl)cyclohexane-1,3-diamine, was obtained after evaporation of solvent.
+(S)-N-{1-[2-Bromo-7-(tert-butyldimethylsilyloxy)naphthalen-1-yl]-2-oxopyrrolidin-3-yl}-2-[1-(4-cyano-3-fluorobenzyl)-1H-imidazol-5-yl]acetamide, as described above in Step K, (171 mg, 0.264 mmol) was dissolved in THF (5 mL) and TBAF (1.0 M in THF, 0.26 mL, 0.26 mmol) was added.
+After 45 min, the mixture was poured into saturated aqueous NaHCO3 and extracted with CH2Cl2 (3×).
+The combined organic extracts were dried over Na2SO4, filtered and concentrated in vacuo.
+4-Methoxyphenylhydrazine hydrochloride (4.37 g, 25.0 mmol) and iodomethane (1.9 mL, 30.0 mmol) were combined in CH2Cl2 and cooled to 0° C. Diisopropylethylamine (13 mL, 75 0 mmol) was added via dropping funnel over 5 minutes, and the reaction was slowly allowed to warm to room temperature and stirred overnight.
+The solution was quenched with saturated aqueous NH4Cl and extracted with CH2Cl2.
+The combined organic layers were dried over MgSO4, filtered, and concentrated, and the residue was purified by silica gel chromatography (30-100% EtOAc in hexanes) to give the desired product.
+With respects to a possible reaction mechanism, Friedel-Crafts acylation with carboxylic acid chlorides or anhydrides often occurs through acyl cation intermediates, however amides generally do not produce acyl cations in acidic media.
+Nevertheless, amide 4 can be reacted with CF3SO3H (4 equivalents) in CH2Cl2 without an arene nucleophile, and when the mixture is poured over ice, benzoic acid is isolated in 90% yield and no starting amide is found.
+This observation is consistent with the formation of either the benzoyl cation or the mixed anhydride with the triflate anion.
+2-(4-Bromo-phenyl)-2-methyl-6-nitro-2,3-dihydro-imidazo[2,1-b]oxazole was synthesized according to the scheme shown in FIG. 6.
+2-(4-Bromo-phenyl)-2-methyl-oxirane (213 mg, 1 mmol), 2-bromo-5-nitroimidazole (191 mg, 1 mmol) and triethylamine (0.4 mL) were stirred in a sealed tube at 80° C. for 6 hours
+Column chromatography (EtOAc/Hexanes, v/v, 1/1 to 3/1) gave 330 mg yellow solid.
+The solid was dissolved in 5 mL DMF with Cs2CO3 (780 mg, 2.4 mmol).
+The organic layer was washed with brine and dried over Na2SO4 Column chromatography (EtOAc/Hexanes, v/v, 1/1 to 3/1) gave the titled compound (178 mg, 55% yield in two steps) as yellow solid.
+ESI MS m/z 324, 326 (M+H).
+1H NMR (400 MHz, Acetone-d6) δ 7.66 (s, 1H), 7.76 (s, 1H), 7.52 (d, J=8.2 Hz, 2H), 7.41 (d, J=8.2 Hz, 2H), 4.58 (d, J=10.8 Hz, 1H), 4.47 (d, J=10.8 Hz, 1H), 1.89 (s, 3H).
+Ninhydrin (6.00 g, 33.6 mmol) and m-cresol (3.78 ml, 33.6 mmol) were dissolved in acetic acid (30 ml) and heated for 3 hrs under reflux.
+After cooling, the precipitate thus formed was washed with acetic acid and water in that order to afford the title compound as a white solid.
+7.55 g (83%)
+Prepared by treatment of N-(2-(phenylmethoxy)ethyl)methylamine with 4,6-dichloro-5-nitropyrimidine, followed by reaction with 2-ethylimidazole, reduction with tin (II) chloride, and cyclization with carbonyldiimidazole.
+To a mixture of (4-chloro-phenyl)-(4,6-dichloro-[1,3,5]triazin-2-yl)-amine (3.97 g, 14.4 mmol), potassium carbonate (2.20 g, 15.9 mmol) and 18-crown-6 (46 mg, 0.17 mmol) in toluene (25 ml), cooled in an ice bath, was added a solution of aniline (1.4 ml, 15.4 mmol) in toluene (10 ml) over 15 minutes.
+After stirring at room temperature for 24 hours, the mixture was treated with ethyl acetate (35 ml) and filtered through a pad of celite under suction.
+The filtrate was concentrated under vacuum and the residue was recrystallized (chloroform) to give 6-Chloro-N-(4-chlorophenyl)-N′-phenyl-[1,3,5]triazine-2,4-diamine (2.20 g, 46% yield) as a white solid.
+1H NMR (d6-DMSO) δ 10.1–10.4 (2H, br s), 7.5–7.8 (4H, br s), 7.3–7.5 (4H, m), 7.15–7.05 (1H, m), ESMS m/z 330 (M-H)−.
+Under a nitrogen atmosphere, triethylamine (0.73 mL, 5.26 mmol) was added to a solution of 2-[(4-bromobutanoyl)amino]benzamide (500 mg, 1.75 mmol) and 4-phenyl-1,2,3,6-tetrahydropyridine hydrochloride (412 mg, 2.10 mmol) in N,N-dimethylformamide (5 mL) at 0° C.
+The mixture was allowed to warm to room temperature and stirred for 24 hour.
+The reaction was quenched with water, and the product was extracted with chloroform.
+The organic layer was washed with water and dried over sodium sulfate.
+Purification over silica gel chromatography gave 2-{[4-(4-phenyl-3,6-dihydro-1(2H)-pyridinyl)butanoyl]amino}benzamide (477 mg, 74.8%) as pale-yellow powder.
+A 15.0 g sample of D-phenylalanine was dissolved in 45 ml of aqueous solution containing 7.26 g of 50% sodium hydroxide.
+This solution was stirred at 0°-10° C. as 16.3 g of benzyl chloroformate was added rapidly in portions.
+The resulting reaction was mildly exothermic, and shortly after addition, solids precipitated.
+An additional 45 ml of water and 3.63 g of 50% sodium hydroxide were added, causing most of the solids to redissolve.
+The reaction mixture was stirred for 20 minutes and then acidified with 6N hydrochloric acid.
+The resulting solids were filtered, washed with water and then with hexane, and dried by suction and then under vacuum to give 47 g of white solids.
+These solids dissolved in ether were washed twice with 1N hydrochloric acid and then with water, dried over MgSO4 and stripped to 35° C. at 2.5 mm Hg to give 27.7 g of the desired product as a colorless oil.
+Potassium hydroxide (1.30 g, 23.2 mmol) was added to a solution of ethyl (2R)-4-{5-fluoro-2-oxo-4-[4-(2H-1,2,3-triazol-2-yl)phenyl]pyridin-1(2H)-yl}-2-methyl-2-(methylsulfonyl)butanoate (1.54 g, 3.33 mmol) in 2-methyltetrahydrofuran:water (2::1 42.5 mL) and the solution was stirred at rt overnight.
+Methanol (5 mL) was added and the reaction was heated to 60° C.
+The reaction mixture was stirred at this temperature for 2 h.
+The reaction was concentrated and triturated in 3 M aq HCl.
+The solid was collected via filtration and washed with water (20 mL) and hexanes (20 mL).
+The solid was dried under vacuum to afford the title compound as a white solid (1.39 g, 96.1%).
+MS (LCMS) m/z 435.0 (M+1).
+1H NMR (400 MHz, DMSO-d6) δ ppm 1.58 (s, 3H) 2.13-2.30 (m, 0H) 2.41-2.61 (m, 1H) 3.17 (s, 3H) 3.89-4.13 (m, 2H) 6.59 (d, J=7.81 Hz, 1H) 6.56-6.63 (m, 1H) 7.79 (dd, J=8.78, 1.76 Hz, 3H) 8.09 (d, J=6.83 Hz, 1H) 8.12-8.17 (m, 2H) 8.19 (s, 2H).
+1-Methyl-3-(3-{[7-propyl-3-(trifluoromethyl)-1,2-benzisoxazol-6-yl]oxy}propyl)imidazolidine-2,4-dione was prepared as for Example 10 from 1-methylimidazolidine-2,4-dione and the bromide from Example 7.
+After aqueous work-up and silica gel chromatography, the title compound was obtained.
+A solution of methyl 4-isopropoxy-3-(methoxymethyl)benzoate (11.30 g; 47.42 mmol; 1 eq.) in EtOH (339 mL) at RT was treated with NaOH (47.42 mL; 5 M; 237.11 mmol; 5 eq.).
+The reaction mixture was stirred at RT for 12 hours.
+The reaction mixture was concentrated to give a yellow solid.
+It was taken up in water and the aqueous phase was washed with EtOAc and then acidified with HCl cc to pH 2.
+The aqueous layer was extracted with EtOAc (twice).
+The combined organics were washed with brine, dried over MgSO4 and concentrated affording the title compound as a beige solid (9.71 g, 91%). 1H NMR (DMSO-d6, 300 MHz) δ 12.39 (br s, 1H), 7.89-7.82 (m, 2H), 7.11-7.07 (d, J=8.75 Hz, 1H), 4.79-4.67 (sept, J=5.92 Hz, 1H), 4.39 (s, 2H), 3.35 (s, 3H), 1.31-1.28 (d, J=6.06 Hz, 6H).
+LC/MS (Method B): 223.2 (M−H)−.
+HPLC (Method A) Rt 3.71 min (Purity: 92.8%).
+A mixture of 4-(trifluoromethoxy)aniline (1.0 g, 5.65 mmol) and 2,2,2-trichloroacetaldehyde (1.5 g, 10.18 mmol) in water (10.0 mL) was stirred at room temperature for 1 h.
+Then hydroxylamine hydrochloride (0.63 g, 9.07 mmol) was added and the reaction mixture was heated at 80° C. for 1.5 h.
+The mixture was cooled to room temperature and the precipitate was collected by filtration, washed with water and dried under vacuum to give crude title compound, which was used in the next step without further purification.
+A solution of cyclopentanone (26.2 μl, 296 μmol) and (S)-4-(5-amino-2-fluoro-phenyl)-4-methyl-5,6-dihydro-4H-[1,3]oxazin-2-ylamine (intermediate A8.4) (60 mg, 269 μmol) in dichloromethane (2 ml) was treated with acetic acid (30.8 μl, 538 μmol) followed by sodium triacetoxyborohydride (85.4 mg, 403 μmol).
+The reaction mixture was stirred at room temperature for 2.5 hours.
+For the workup, the reaction mixture was quenched with a saturated solution of sodium hydrogencarbonate, then extracted with ethyl acetate.
+The organic layer was washed twice with water, dried over sodium sulphate, and evaporated at reduced pressure.
+The crude product was purified by chromatography on a silica-NH2 phase using a gradient of n-hexane/ethyl acetate=50:50 to 0:100 as the eluent to yield the (S)-4-(5-cyclopentylamino-2-fluoro-phenyl)-4-methyl-5,6-dihydro-4H-[1,3]oxazin-2-ylamine (5 mg, 6% yield).
+MS (ISP): m/z=292.1 [M+H]+.
+After the disappearance of NeuAc (determined by thin-layer chromatography) the reaction mixture was reduced in volume to 20 ml by lyophilization and the lyophilized reaction mixture applied to a Bio Gel P2 (200-400 mesh) column with water as the mobile phase.
+The trisaccharide-containing fractions were eluted, collected and lyophilized to give pure Neuα2,6Galβ1,4GlcNAc in 97 percent yield.
+To a solution, cooled under nitrogen to -78°, of 1.8 g (4.6 mmol) of 2-(3-oxo-trans-1-octenyl)-6-methyl-3-(5-carboethoxypentyloxy)-4-pyrone in 20 ml of tetrahydrofuran was added dropwise keeping the internal temperature at -70° to -75°, 30 ml (4.6 mmole) of lithium triethylborohydride.
+After being stirred for an additional 30 min the cold reaction was quenched by the addition of 3.0 ml of 40% aqueous acetic acid and then partially concentrated under reduced pressure.
+The residue was dissolved in methylene chloride and washed successively with aqueous sodium bicarbonate and brine solution.
+The organic solution was dried over magnesium sulfate and evaporated to give an oil.
+Chromatographic purification on silica gel eluting with ether furnished 0.5 g (26%) of 2-[(3RS)-3-hydroxy-trans-1-octenyl]-6-methyl-3-(5-carboethoxypentyloxy)-4-pyrone.
+NMR (CDCl3, 100 M Hz): δ0.90 (3H, t, J=4.5 Hz), 2.33 (3H, s).
+N1-[4-(3-Cyanoanilino)-5-nitro-6-oxo-1,6-dihydro-2-pyrimidinyl]acetamide (2.5 g) was suspended in 50 ml of acetonitrile, then 2.64 g of tetraethylammonium chloride, 1 ml of N,N-dimethylaniline and 4.5 ml of phosphorus oxy-chloride were added and the mixture was heated under reflux for 5 hours.
+The reaction solution was returned to room temperature and added to ice-water and the mixture was stirred for 30 minutes.
+The resulting crystals were collected by filtration washed with water and dried to give 2.5 g of N1-[4-chloro-6-(3-cyanoanilino)-5-nitro-2-pyrimidinyl]acetamide.
+The yield was 93%.
+A solution of ethanesulfonyl chloride (0.64 mg, 0.005 mmol) in dichloromethane (0.05 ml) was added to a solution of N-[4-(6-chloro-3-methyl-4,10-dihydro-3H-2,3,4,9-tetraaza-benzo[f]azulene-9-carbonyl)-3-methyl-benzyl]-3-piperidin-4-yl-propionamide hydrochloride (Compound number 1108) (2.97 mg, 0.005 mmol) in dichloromethane (0.05 ml) and triethylamine (0.0035 ml).
+The mixture was stirred at room temperature for 1 h then solvents were removed in vacuo to yield the title compound.
+(ESI)+: [M+H]+=613.4
+4-(1H-Pyrrolo[3,2-c]pyridin-3-yl)-piperidine-1-carboxylic acid tert-butyl ester (2.0 g, 6.6 mmol) was set stirring in 1:1 TFA/CH2Cl2.
+After 45 min the mixture was evaporated and the golden oil brought up in Et2O. A solid formed and was filtered, washed with Et2O and air dried to give 2.1 g (100%) of a white solid as a TFA salt.
+MS (electrospray): exact mass calculated for C12H15N3, 201.13; m/z found, 202.1 [M++H]. 1H NMR (CDCl3, 400 MHz): 9.4 (br s, 1H), 8.96 (s, 1H), 8.26 (d, J=5.87 Hz, 1H), 7.24 (s, 1H), 6.99 (s, 1H), 3.22-3.16 (m, 2H 3.05-2.95 (m, 1H), 2.86-2.77 (m, 2H), 2.05 (d, J=12.72 Hz, 2H), 1.89 (br s, 1H), 1.75-1.63 (m, 2H).
+To a solution of 4-chloro-2-(4-fluoro-1H-indol-2-yl)phenol (40 mg, 0.15 mmol) in DMF (1 mL), K2CO3 (40 mg, 0.31 mmol) and CH2Br2 (53 mg, 0.31 mmol) were added at 25° C.
+The mixture was stirred at 80° C. for 2 hours, and cooled to 25° C.
+H2O (50 mL) was added, then the mixture was extracted with ethyl acetate and washed with brine, dried over Na2SO4.
+After concentrated, the resulting residue was purified using prep-TLC (petroleum ether:EtOAc=10:1) to provide the product of 2-chloro-11-fluoro-6H-benzo[5,6][1,3]oxazino[3,4-a]indole (50 mg, yield: 45%).
+1H-NMR (CDCl3, 400 MHz) δ 7.68 (s, 1H), 7.14˜7.23 (m, 2H), 7.03˜7.09 (m, 2H), 6.90 (s, 1H), 6.81˜6.86 (m, 1H), 5.88 (s, 2H).
+MS (M+H)+: 274/276.
+Phosphorus oxychloride (2.4 mmol) is added dropwise over 5 mins to a solution of 2-(5-bromo-4-(1-cyclopropylnaphthalen-4-yl)-4H-1,2,4-triazol-3-ylthio)acetic acid (810 mg, 2.0 mmol) in pyridine (20 mL) at 0° C.
+The mixture is stirred at 0° C. for a further 3 hours and 1 hour at 20° C. and then quenched by addition of water (1 mL).
+Volatile solvents are removed in vacuo and DCM (200 mL) added.
+The organic phase is washed with water (1×50 mL), saturated sodium carbonate solution (1×50 mL) and brine (1×50 mL), dried over Na2SO4 and concentrated to dryness.
+Ethanol and water are added to produce a solid which is collected by filtration.
+Combined product is concentrated, dried and purified by column chromatography (acetone/DCM eluent).
+The combined solids are dissolved in acetic acid (25 mL) and water (5 mL) mixture, heated at 60° C. for 3 hours.
+Volatile solvents are removed in vacuo.
+Ethanol and water are added to produce a solid which is collected by filtration.
+(2,5-dichloro-pyrimidin-4-yl)-(3-ethyl-2,3,4,5-tetrahydro-1H-benzo[d]azepin-7-yl)-amine (50 mg, 0.15 mmol) and 3-ethyl-2,3,4,5-tetrahydro-1H-benzo[d]azepin-7-ylamine (29 mg, 0.15 mmol) were combined with camphorsulfonic acid (74 mg, 0.32 mmol) in 5 mL isopropyl alcohol and subjected to microwave irradiation at 120° C. for 80 minutes.
+35 mg addition camphorsulfonic acid was added and microwave irradiation was continued for an additional hour.
+The mixture was concentrated and the organics were partitioned between dichloromethane and saturated sodium bicarbonate solution.
+The organic layer was separated, was dried (sodium sulfate), and was concentrated.
+The solid was obtained was triturated with ether.
+The ether was separated and concentrated and the solid obtained was purified by reverse phase chromatography (0% to 30% acetonitrile:water on C8) to afford 55 mg (76%) of 5-Chloro-N*2*,N*4*-bis-(3-ethyl-2,3,4,5-tetrahydro-1H-benzo[d]azepin-7-yl)-pyridine-2,4-diamine as a white solid.
+Mp: 132-4° C.; MS: 493.41 (M+2H); 1H NMR (chloroform-d): δ 8.04 (s, 1H), δ 7.41 (d, J=8 Hz, 1H), δ 7.28 (m, 2H), δ 7.09 (d, J=8 Hz, 1H), δ 7.02 (m, 2H), δ 6.90 (br s, 1H), δ 3.00-2.85 (m, 8H), δ 2.76-2.54 (m, 12H), δ 1.17 (m, 6H).
+A solution of phenylmethyl methyl({3-nitro-4-[(2,2,2-trifluoroethyl)amino]phenyl}sulfonyl)carbamate (1 g, 2.24 mmol) in DMF (1 mL) at 25° C. was treated with NaH (0.179 g, 4.47 mmol) and stirred for 2 min before being treated with iodomethane (0.42 mL, 6.71 mmol).
+After 1 h, the mixture was diluted with water and extracted with EtOAc.
+The organic extract was washed (brine), dried (Na2SO4), concentrated, and subjected to flash chromatography (10-35% EtOAc-hexanes) to give phenylmethyl methyl({4-[methyl(2,2,2-trifluoroethyl)amino]-3-nitrophenyl}sulfonyl)carbamate (539 mg, 52%) as a yellow oil.
+MS (m/z) 462.1 (M+H)+.
+To a mixture of magnesium (0.25 g, 10.58 mmol) in anhydrous THF (5.3 mL) was added 2-bromothiophene (1.73 g, 10.58 mmol) dropwise.
+The mixture was heated at reflux under argon for 0.5 h. An additional 0.35 g of 2-bromothiophene was added to consume the remaining magnesium.
+The resulting mixture was heated under argon for 3 h.
+The reaction was allowed to cool to rt and quenched with water.
+The mixture was extracted with CH2Cl2.
+The organic layer was dried over MgSO4 and concentrated down under reduced pressure.
+The crude product was purified by flash column chromatography eluting with hexane to afford a colorless liquid (1.46 g, 72%): 1H NMR (CDCl3), δ 7.48-7.02 (m, 6H), 2.36 (s, 3H), GC/MS m/z 192 (M+, 100).
+Hydrogen peroxide (30%, 2 ml) was added to a mixture of the catalyst from Example 48 (0.04 g) and cis-cyclooctene (1.4 g, 11.5 mmol) in tert-butanol (10 ml) at 30° C. under an atmosphere of nitrogen.
+The reaction mixture was stirred at 30° C. for 48 h under nitrogen.
+The catalyst was filtered off and washed well with ether (80 ml).
+The combined organic layers were washed well with water (2×40 ml) and then dried over magnesium sulphate.
+After filtration the solvent was removed under reduced pressure—20° C. at 50 mm of Hg—to afford 9-oxabicyclo[6.1.0] nonane as a white solid (0.95 g, 65%).
+M.p. 51° C., lit. m.p. 53-56° C.
+4-(5-{[3-(trifluromethyl)phenyl]amino}-4H-1,2,4-triazol-3-yl)phenol (160 mg, 0.5 mmol) was dissolved in 3 mL of anhydrous dioxane in 2-5 mL microwave vial (Personal Chemistry).
+Solid Cs2CO3 (163.0 mg, 0.5 mmol) was added, followed by 4-chloro-2,6,-diaminopyrimidine (79.5 mg, 0.55 mmol).
+The vial was capped and microwaved at 200° C. for 20 min.
+Then ca. 3 mL of MeOH was added to dissolve the formed suspension, the solution was transferred into a round-bottom flask and solvent was removed in vacuo.
+The residue was re-dissolved in 3 mL of DMF, filtered through 0.22 u syringe filter and purified by reverse phase preparative HPLC using acetontrile/water system with 0.01% of TFA.
+A solution of diethyl oxalate (21.06 g, 0.144 mol) and ethyl benzyloxyacetate (28.0 g, 0.144 mol) in dry tetrahydrofliran (200 ml) was treated at 22° C. with sodium hydride (6.34 g of a 60% dispersion in mineral oil, 0.158 mol).
+Ethanol (0.05 ml) was added and the resulting mixture was stirred at 22° C. for 18h.
+The tetrahydrofuran was then evaporated under reduced pressure and the residual orange syrup was dissolved in a solution of sodium ethoxide (0.072 mol prepared from 1.65 g of sodium) in ethanol (200 ml).
+Powdered 2-methyl-2-thiopseudourea sulfate (20.1 g, 0.072 mol) was added and the resulting mixture was heated at 60° C. for 6 h.
+Acetic acid (5 ml) was then added to the gel-like reaction mixture and the ethanol was evaporated under reduced pressure.
+The residual paste was partitioned between water and dichloromethane and the aqueous phase was extracted twice with dichloromethane.
+The combined organic phases were washed with saturated sodium bicarbonate, brine, dried over anhydrous magnesium sulfate and concentrated under reduced pressure.
+Chromatography on silica gel (elution with a gradient of ethyl acetate 0-20% in toluene) followed by crystallization from ethyl acetate-hexane gave 8.34 g (18% yield) of the title ester as white needles;
+mp 109-110° C. 1HNMR 400 MHz (CDCl3) δ (ppm): 1.35 (3H, t, J=7.1 Hz, CH3), 2.62 (3H, s, SCH3), 4.37 (2H, q, J=7.1 Hz, CH2), 5.28 (2H, s, OCH2), 7.35-7.52 (5H, m, aromatics), 12.2 (1H, broad s, NH).
+Anal.
+Calcd for C15H16N2O4S: C, 56.23: H, 5.03; N, 8.74.
+Found: C, 56.23; H, 4.86; N, 8.76.
+9 g of 1-(4-bromobutyl)-2-pyrrolidinone and 7.6 g of 1-[6-(trifluoromethyl)-2-pyridinyl]-piperazine were mixed with 100 ml of butanol.
+4.3 g of sodium carbonate were added, and the mixture is refluxed for 3 hours.
+The precipitate is filtered and washed with butanol, and the filtrate is then evaporated.
+The residue was dissolved in dichloromethane, washed with water, dried over anhydrous magnesium sulfate, after which the solvent was evaporated to obtain 12.5 g of 1-[4-[4-[6-(trifluoromethyl)-2-pyridinyl]-1-piperazinyl]-butyl]-2-pyrrolidinone.
+To make the monofumarate, the free base was mixed with 3.9 g of fumaric acid in absolute ethanol.
+The resulting substance was recrystallized twice from absolute ethanol, after which 7.8 g (43.6% yield) of 1-[4-[4-[6-(trifluoromethyl)-2-pyridinyl]-1-piperazinyl]butyl]-2pyrrolidinone.
+(E)-2-butenedioate (1:1) salt were obtained.
+M.p. 173° C.
+To a nitrogen purged 2 L three necked flask equipped with addition funnel, overhead stirrer and reflux condenser was charged 150 g (0.591 mol) 4-Chloro-2-iodo-phenylamine, 3 g (0.018 mol, 0.03 eq) benzenesulfonic acid and 500 mL acetontrile.
+The mixture was warmed to 70 C and 120 g (0.652 mol, 1.1 eq) benzhydrol dissolved in 500 mL acetonitrile was added to the stirred warm solution over a period of 7.5 h.
+After another 4 h, LC analysis showed 95% product and 5% starting material remaining.
+The mixture was cooled to 25 C and 290 mL water was added dropwise over a period of 30-40 min.
+Stirring was continued over night at 23 C.
+The dark purple solid was collected by filtration, washed with 2× with MeCN/water 1/1 dried at 50 C in vacuo for 15 h to give 218.5 g (88%) product.
+A solution of 1-methylethyl((2S,4R)-1-acetyl-6-{5-[2-({[(1,1-dimethylethyl)oxy]carbonyl}amino)ethyl]-1,2,4-oxadiazol-3-yl}-2-methyl-1,2,3,4-tetrahydro-4-quinolinyl)carbamate (for a preparation, see Intermediate 76) (260 mg, 0.518 mmol) in 1,4-Dioxane (1 mL) was treated with HCl (4N in 1,4-dioxane, 1.00 mL, 4 mmol) and the resulting mixture was stirred at room temperature for 16 h.
+Et2O (10 mL) was then added and the precipitate formed was triturated then filtered off to give 1-methylethyl {(2S,4R)-1-acetyl-6-[5-(2-aminoethyl)-1,2,4-oxadiazol-3-yl]-2-methyl-1,2,3,4-tetrahydro-4-quinolinyl}carbamate hydrochloride (195 mg, 0.446 mmol, 86%) as an off white solid.
+A stirred solution of 4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidine-1-carboxylic acid [1-(1H-indazol-5-ylmethyl)-2-oxo-2-piperazin-1-yl-ethyl]-amide (100 mg, 0.188 mmol) in methanol (25 mL) was treated with 2-methyl-butyraldehyde (0.03 ml, 0.376 mmol).
+After 1 h at room temperature, sodium triacetoxyborohydride (80 mg, 0.316 mmol) was added.
+The mixture was allowed to stir overnight.
+The solution was filtered through an SCX cartridge.
+The cartridge was eluted first with methanol and then with a 1M solution of ammonia in methanol.
+The solvent was removed in vacuo to give the desired product in 50% yield.
+LC/MS: tR=1.31 min, 601(MH)+.
+The title compound was prepared from biphenyl-2-yl-carbamic acid 1-(9-amino-nonyl)-piperidin-4-yl ester dihydrochloride salt (Preparation 2, 100 mg, 229 μmol) and 3-chloro-4-hydroxyphenylacetic acid (46.9 mg, 251 μmol) using the same method as described in example 1 to afford the title compound as a white foam, 72% yield, 100 mg.
+A suspension of N′1-(3-chlorobenzoyl)-3-nitrobenzene-1-carbohydrazide (0.321 g) in POCl3 (3 mL) was stirred at 90° C. for 24 h.
+The resulting clear solution was quenched with ice-water, solid obtained was filtered washed with water, dried and analyzed to give [2-(3-chlorophenyl)-1,3,4-oxadiazol-5-yl]-3-nitrobenzene.
+1H NMR (DMSO-d6): δ 8.86 (t, 1H, J=1.8 Hz), 8.59 (dt, 1H, J=1.8 and 8.4 Hz), 8.48 (m, 1H), 8.25 (t, 1H, J=1.8 Hz), 8.16 (dt, 1H, J=1.2 and 7.5 Hz), 7.93 (t, 1H, J=8.1 Hz), 7.75 (m, 1H), 7.66 (t, 1H, J=7.5 Hz), LCMS: purity: 86%; MS (m/e): 302 (MH+).
+To a stirred solution of 4-biphenylsulfonamide (Greenlee, W. J.; Walsh, T. F.; et al. Eur. Pat. Appl., EP 617001 (1994).
+After 5 min, phenyl 2-[4-(2-ethyl-5,7-dimethyl-3H-imidazo[4,5-b]pyridin-3-yl)phenyl]ethylcarbamate (step 1, 100 mg, 0.24 mmol) was added, and the mixture was stirred for an additional 1 h.
+The mixture was poured into water (50 mL) and extracted with diethyl ether (2×50 mL).
+The combined extracts were washed with water (50 mL), brine (50 mL) and dried (MgSO4).
+Removal of solvent gave white oily solids.
+Purification by preparative TLC (ethyl acetate) gave 66 mg (50%) of the title compound as a colorless oil: MS (ESI) m/z 554 (M+H)+; 1H-NMR (CDCl3) δ 8.06 (2H, d, J=8.6 Hz), 7.13 (2H, d, J=8.6 Hz), 7.60–7.53 (2H, m), 7.48–7.36 (3H, m), 7.21 (2H, d, J=8.4 Hz), 7.12 (2H, d, J=8.3 Hz), 6.92 (1H, s), 6.11 (1H, br.t, J=5.5 Hz), 3.54 (2H, dt, J=5.9, 6.0 Hz), 2.89 (2H, J=6.0 Hz), 2.64 (2H, q, J=7.5 Hz), 2.66 (3H, s), 2.40 (3H, s), 1.18 (3H, t, J=7.5 Hz).
+To a stirred solution of naphthalene-2-carboxylic acid hydrazide (0.7 g, 3.76 mmol) in isopropanol (40 ml) was added triethylamine (630 μl, 4.51 mmol) and diphenyl cyanocarbonimidate (0.99 g, 4.14 mmol) and the resulting reaction mixture was stirred at room temperature for 1.5 h.
+The volatiles were evaporated in vacuo and to the residue was added water (50 ml) and diethyl ether (50 ml).
+The organic phase was separated and the aqueous phase was acidified to pH=1 with concentrated hydrochloric acid.
+The precipitate was filtered off and washed with water (3×10 ml) and diethyl ether (2×10 ml) and dried in vacuo at 50° C. which afforded 0.45 g (51%) of the title compound as a solid.
+In the same manner as described above (2) using methyl (1RS,3SR)-trans-1-n-propyl-1,2,3,4-tetrahydro-β-carboline-3-carboxylate (1.36 g), 1N NaOH (6 ml) and methanol (20 ml), there is obtained the title compound (1.01 g, 78%) as colorless needles, m.p. 210°-211° C.
+To a stirred solution of 6-chloro-N-[4-[[3-[[5-(trifluoromethyl)-2-pyridyl]oxy]phenyl]-methylene]cyclohexyl]pyridine-3-carboxamide (Example 2.A-22), 150 mg, 0.3 mmol) in Ethanol (5 mL) was added sodium ethoxide (42 mg, 0.6 mmol) and refluxed for 19 h.
+Volatiles were evaporated under reduced pressure.
+The resulting residue was taken in ethyl acetate (15 mL), washed with water (15 mL), brine (15 mL), dried over anhydrous sodium sulfate, filtered, concentrated and purified by preparative HPLC to give 30 mg (20%) of titled compound.
+A stirred solution of 5-[4-Chloro-3-(4-methyl-piperazine-1-sulfonyl)-phenyl]-4-methyl-thiazol-2-ylamine hydrobromide (174d) (0.1 g, 0.26 mmol) in DMF (1 ml) at room temperature is treated with DIPEA (0.07 g, 0.52 mmol) and ethyl isocyanate (0.025 ml, 0.33 mmol).
+The reaction mixture is heated to 120° C. for 1 hour and then allowed to cool to room temperature.
+Purification by preparative LC-MS affords the titled compound.
+1-(2-Chloroethyl)-5-fluoro-3-(4-methoxyphenyl)-8-propoxy-1H-quinolin-4-one (3.5 g, 8.98 mmol), methyl 3-mercaptopropionate (1.19 g, 9.88 mmol), and sodium iodide (1.48 g, 9.88 mmol) were added to DMF (30 ml) and stirred at 80° C. for 5 hours.
+Water and ethyl acetate were added to the reaction mixture, followed by separation.
+The thus-obtained organic layer was washed with water, dried over anhydrous magnesium sulfate, and then concentrated under reduced pressure.
+The residue was purified using silica gel column chromatography (dichloromethane).
+The purified product was concentrated to dryness under reduced pressure, giving a pale yellow powder of methyl 3-{2-[5-fluoro-3-(4-methoxyphenyl)-4-oxo-8-propoxy-4H-quinolin-1-yl]ethylsulfanyl}propionate (3.2 g, yield: 75%).
+128 mg (0.27 mmol) 7-benzyloxy-5-{1-hydroxy-2-[2-(4-methoxy-phenyl)-1,1-dimethyl-ethylamino]-ethyl}-1H-quinolin-2-one are dissolved in 12 mL methanol and hydrogenated using palladium on charcoal as catalyst.
+The reaction mixture is filtered through Celite, eluted with methanol and the filtrate is freed from the solvent.
+Ethyl 2-(4-(3-(2-chlorobenzoyl)-5-ethylthiophen-2-yl)-3-hydroxymethyl[1,2,4]triazol-5-ylmethylcarbamoyl)indole-1-acetate is subjected to alkali hydrolysis using a 2M aqueous sodium hydroxide solution to give 2-(4-(3-(2-chlorobenzoyl)-5-ethylthiophen-2-yl)-3-hydroxymethyl[1,2,4]triazol-5-ylmethylcarbamoyl)indole-1-acetic acid.
+To a solution of 5-(3-tert-butoxycarbonylamino-propyl)-3-methyl-4-oxo-2-(tetrahydro-pyran-2-yl)-4,5-dihydro-2H-pyrazolo[4,3-c]quinoline-8-carboxylic acid (0.10 g, 0.21 mmol) in CH2Cl2 (2 mL) was added the amine (0.034 uL, 0.31 mmol), DIEA (0.1 mL, 0.62 mmol), and HATU (0.12 g, 0.31 mmol)
+and
+the mixture stirred for 48 h at 22° C. The reaction mixture was then concentrated in vacuo and purified by C-18 RP LC-MS chromatography to provide 0.075 g (0.14 mmol) of {3-[8-(2-dimethylamino-ethylcarbamoyl)-3-methyl-4-oxo-2-(tetrahydro-pyran-2-yl)-2,4-dihydro-pyrazolo[4,3-c]quinolin-5-yl]-propyl}-carbamic acid tert-butyl ester in 66% yield.
+LCMS: Method FA, Rt=1.16 min, [MH+=555.4].
+To a mixed solution of tert-butyl 3-oxopiperidine-1-carboxylate (11.5 g, 57.7 mmol) and ammonium chloride (10.7 g, 200 mmol) in isopropyl alcohol-25% aqueous ammonia (50 mL-126 mL) was added potassium cyanide (13.1 g, 200 mmol), and the mixture was stirred for 3 days.
+The reaction mixture was extracted 3 times with ethyl acetate, and the organic layer was dried over anhydrous magnesium sulfate.
+The solvent was evaporated under reduced pressure to give tert-butyl 3-amino-3-cyanopiperidine-1-carboxylate (12.95 g) as a crude product.
+To a solution of the crude product (5.00 g, 22.2 mmol) and triethylamine (4.7 mL, 33.3 mmol) in tetrahydrofuran (100 mL) was added propionyl chloride (2.5 mL, 28.9 mmol), and the mixture was stirred at room temperature for 30 min.
+A saturated aqueous sodium hydrogencarbonate solution was added to the reaction mixture.
