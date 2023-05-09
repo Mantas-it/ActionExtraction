@@ -1,0 +1,12 @@
+# cmd commands
+
+#Train the SentencePiece tokenizer for OpenNMT-tf
+
+onmt-build-vocab --size 8000 --sentencepiece character_coverage=1 input_sentence_size=5000000 split_digits=True shuffle_input_sentence=False --save_vocab 8k_p Parag2act/all_vocab.txt
+
+#Train the model
+
+onmt-main --model_type TransformerBaseSharedEmbeddings --config run_file.yml --auto_config train --with_eval
+
+# you can add --mixed_precision for 16bit precision, about 2x faster
+

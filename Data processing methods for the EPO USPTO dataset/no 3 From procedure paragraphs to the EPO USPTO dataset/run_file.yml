@@ -1,0 +1,28 @@
+model_dir: destination_folder
+
+data:
+  train_features_file: src-train.txt
+  train_labels_file:tgt-train.txt
+  eval_features_file: src-valid_sm.txt
+  eval_labels_file: tgt-valid_sm.txt
+  source_vocabulary: 159_4m_rough.vocab
+  target_vocabulary: 159_4m_rough.vocab
+  source_tokenization: tokenization/aggressive_mp.yml
+  target_tokenization: tokenization/aggressive_mp.yml
+params:
+    learning_rate: 0.1
+train:
+  save_summary_steps: 1000
+  save_checkpoints_steps: 1000
+  keep_checkpoint_max: 10
+  max_step: 300000
+  batch_size: 4096
+  effective_batch_size: 32768
+  maximum_features_length: 800
+  maximum_labels_length: 800
+eval:
+    export_on_best: bleu
+    batch_size: 128
+    steps: 100
+    save_eval_predictions: True
+    scorers: bleu  
