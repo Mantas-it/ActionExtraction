@@ -43,5 +43,5 @@ All text of organic chemistry patents in raw format will be available after the 
 
 ### Additional notes and advanced use
 Methods and code for raw patent data processing can be found in the folder 'no 1 From raw patent data to organic chemistry patents'. 
-
+The iupac - smiles vocabulary for the dataset we produced can be downloaded [here](https://vduedu-my.sharepoint.com/:u:/g/personal/mantas_vaskevicius_vdu_lt/Eef58hswjlJHsAQxtHzzKyQBIoYzjsQqBNa54omMW8e4mA?e=mg6Lgt).
 
