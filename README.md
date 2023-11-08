@@ -2,7 +2,7 @@
 
 "Deep learning-based automatic action extraction from structured chemical synthesis procedures".
 
-Available online: - doi: --
+Available online: doi: 10.7717/peerj-cs.1511
 
 Required: python 3.8; tensorflow 2.4.1; RDkit 2021.03; The code is in Jupyter Notebook/Jupyter lab format for more convenient prototyping, Anaconda environment is recommended. GPU with support for CUDA 10.1 or higher is recommended
 
@@ -29,7 +29,11 @@ Download the optimal text generation model from the 'Large files' section below 
 onmt-main --checkpoint_path model_folder\ckpt-2600 --config run_file.yml --auto_config --mixed_precision infer --features_file input.txt --predictions_file output.txt
 ```
 
+# Version 2 of the dataset has been released. It includes a new dataset that has been additionally cleaned. It additionally has reactants and products (in IUPAC and SMILES) that have been extracted from the procedure. [Download Here](https://vduedu-my.sharepoint.com/:u:/g/personal/mantas_vaskevicius_vdu_lt/ETjhQxqX6RhGmOXSV6LxNS8Bkoa5__Jmpa2y2_FAuIQ5tA?e=IKo8e7) (300 MB zipped.)
+
 ### Large files
+
+
 
 The prepared EPO/USPTO dataset of chemical procedures can be downloaded [here](https://vduedu-my.sharepoint.com/:u:/g/personal/mantas_vaskevicius_vdu_lt/EawEVnHXkg9FnxEB2LE1ujsBCsSe2NF2viC454L1Jaihmg?e=VGOOgz). (880 MB zipped, .csv file with tab as a separator)
 
