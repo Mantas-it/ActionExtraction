@@ -29,7 +29,7 @@ Download the optimal text generation model from the 'Large files' section below 
 onmt-main --checkpoint_path model_folder\ckpt-2600 --config run_file.yml --auto_config --mixed_precision infer --features_file input.txt --predictions_file output.txt
 ```
 ### ----------------------------------------
-# Version 2 of the dataset has been released. 
+# Version 2 of the dataset has been released "EPO/USPTOv2". 
 It includes a new dataset that has been additionally cleaned. It additionally has reactants and products (in IUPAC and SMILES) that have been extracted from the procedure. [Download Here](https://vduedu-my.sharepoint.com/:u:/g/personal/mantas_vaskevicius_vdu_lt/ETjhQxqX6RhGmOXSV6LxNS8Bkoa5__Jmpa2y2_FAuIQ5tA?e=IKo8e7) (300 MB zipped.)
 
 ### ----------------------------------------
